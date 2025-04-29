@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Function Expression namd multiply</title>
+</head>
+<body>
+    <script>
+         function multiply (x ,y){
+            return x * y;
+         }
+         console.log(multiply(5 , 3));
+         console.log(multiply(-6 ,5));
+         console.log(multiply(8 , 8));
+         console.log(multiply(0 , 2));
+    </script>
+</body>
+</html>
